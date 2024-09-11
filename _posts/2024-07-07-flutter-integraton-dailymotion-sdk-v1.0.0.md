@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flutter iOS and Android Sample v1.0.0"
+title: "Flutter Integration Dailymotion SDK v1.0.0"
 date: 2024-07-07 12:00:00
 categories: flutter-ios-sample flutter-android-sample
 ---
