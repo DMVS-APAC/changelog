@@ -12,6 +12,9 @@ categories: video-finder
 **Added**
 
 1. Introduction of a brand new UI/UX
-    - Removing advance hurdle
+    - light mode and dark mode
+    - Channel drop-down to choose channel
+    - Sort button
+    - New video card design
 2. Internal Structure Overhaul and Componentization
 3. Transition to an Event-Driven Internal Structure
