@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flutter Integration Dailymotion SDK v1.2.0"
-date: 2024-09-11 10:00:00
+date: 2024-10-04 10:00:00
 categories: flutter-ios-sample
 ---
 
